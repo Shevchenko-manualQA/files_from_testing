@@ -23,7 +23,7 @@ All product blocks have the same height.
 Product blocks have different heights.
 
 ### Attachment
-![Screenshot](../screenshots/Exe-1.png)
+![screenshots](./screenshots/exe.ua-1.png)
 
-Type of bug:
+**Type of bug:**
 Alignment
